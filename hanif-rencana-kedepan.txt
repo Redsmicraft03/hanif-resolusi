@@ -6,3 +6,4 @@ rencana belajar
 - belajar php
 - belajar android 
  * kotlin
+- belajar python
