@@ -1,4 +1,8 @@
 rencana belajar
-- belajar web (html, css, javascript)
+- belajar web 
+ * html
+ * css
+ * javascript
 - belajar php
-- belajar android
+- belajar android 
+ * kotlin
