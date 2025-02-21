@@ -5,5 +5,5 @@ rencana belajar
  * javascript
 - belajar php
 - belajar android 
- * kotlin
 - belajar python
+- belajar framework
